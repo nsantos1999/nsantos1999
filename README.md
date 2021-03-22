@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Natã Souza Santos.
 
 
-🌱 I’m currently learning good pratices to developer both front-end and back-end using NodeJs, React and React Native
+🌱  I’m currently learning good practices to develop both front-end and back-end using Node Js, React and React Native
 
 
 <a href="https://github.com/nsantos1999">
