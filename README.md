@@ -16,6 +16,14 @@
   <img align="center" alt="nsantos1999-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
+ </p>
+
+</p>
 <!--
 **nsantos1999/nsantos1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
