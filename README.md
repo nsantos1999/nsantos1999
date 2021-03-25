@@ -23,7 +23,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
  </p>
 
- ## Total de visitas no perfil da equipe HITCODE :eyes: <br>
+ ## Total de visitas nos perfis da equipe HITCODE :eyes: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/equipe-hit/count.svg" />
  </p>
