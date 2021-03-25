@@ -18,14 +18,14 @@
   
 <p align="center"> 
 
- ## Total de Visitas no perfil :eyes: <br>
+ ## Views in profile :eyes: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
  </p>
 
- ## Total de visitas nos perfis da equipe HITCODE :eyes: <br>
+ ## Views in HITCODE members profiles :eyes: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/equipe-hit/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
  </p>
 </p>
 <!--
