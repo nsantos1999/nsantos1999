@@ -23,6 +23,10 @@
    <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
  </p>
 
+ ## Total de visitas no perfil da equipe HITCODE :eyes: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/equipe-hit/count.svg" />
+ </p>
 </p>
 <!--
 **nsantos1999/nsantos1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
