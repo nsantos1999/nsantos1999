@@ -18,7 +18,7 @@
   
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil :eyes: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
  </p>
