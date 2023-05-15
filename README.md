@@ -22,11 +22,6 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/nsantos1999/count.svg" />
  </p>
-
- ## Views in <img align="bottom" margin-top="50" width="80" src="https://user-images.githubusercontent.com/79661557/112557820-20da4980-8dac-11eb-864b-d6ebbe9e4d03.png"> members profiles<br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
- </p>
 </p>
 <!--
 **nsantos1999/nsantos1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
